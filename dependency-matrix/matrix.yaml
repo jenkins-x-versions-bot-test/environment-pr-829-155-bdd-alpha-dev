@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jenkins-x-versions-bot-test
+  repo: bdd-spring-1582714764
+  url: https://github.com/jenkins-x-versions-bot-test/bdd-spring-1582714764.git
+  version: ""
+  versionURL: ""
